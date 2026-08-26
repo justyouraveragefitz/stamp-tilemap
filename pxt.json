@@ -1,6 +1,6 @@
 {
     "name": "tilemap-stamp",
-    "version": "0.0.0",
+    "version": "1.0.0",
     "description": "Stamp a smaller tilemap onto a larger tilemap.",
     "files": [
         "main.ts",
